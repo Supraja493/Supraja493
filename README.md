@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=%22Knowledge+is+power!%22;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
-- 🔭 I'm currently working on whatever @Supraja is working on
+- 🔭 I'm currently working on whatever @Supraja493 is working on
 
 - 🌱 I'm currently a Advanced Software Developer Embedded Systems student
 
@@ -32,9 +32,6 @@
             <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
           </a>
         </div> 
-      </td>
-    </tr>
-  </table>
 </div>
 
  
